@@ -1,5 +1,5 @@
 # Site settings
-title: Rath Workshop
+title: 拉斯工作间
 SEOTitle: 拉斯工作间 | Rath Workshop
 header-img: img/post-bg-desk.jpg
 description: " RATH Observation Group "
@@ -88,16 +88,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "刀剑神域吧",
+        href: "https://tieba.baidu.com/f?fr=wwwt&kw=%E5%88%80%E5%89%91%E7%A5%9E%E5%9F%9F"
     },{
         title: "简书·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
     }
 ]
