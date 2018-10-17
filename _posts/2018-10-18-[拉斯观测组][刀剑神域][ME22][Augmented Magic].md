@@ -1,6 +1,6 @@
 ---
 layout:     post                    
-title:      [拉斯观测组][刀剑神域][ME22][Augmented Magic]              
+title:      [刀剑神域][ME22][Augmented Magic]              
 subtitle:   Augmented Magic
 date:       2018-10-18              
 author:     SAWAHIRO                    
