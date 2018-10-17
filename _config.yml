@@ -18,8 +18,8 @@ sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     平谷沢弘_SAWAHIRO
-zhihu_username:     平谷沢弘
+weibo_username:     平谷沢弘_SAWAHIRO
+zhihu_username:     batteralter
 
 
 
