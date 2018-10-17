@@ -2,7 +2,7 @@
 layout:     post                    
 title:      [刀剑神域][ME22][Augmented Magic]              
 subtitle:   Augmented Magic
-date:       2018-10-18              
+date:       2018-10-17              
 author:     SAWAHIRO                    
 catalog: true                       
 tags:                               
