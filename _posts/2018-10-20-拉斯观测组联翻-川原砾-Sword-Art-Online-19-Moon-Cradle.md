@@ -4,7 +4,7 @@ title:      拉斯观测组联翻 川原砾 Sword Art Online 19 Moon Cradle
 subtitle:   刀剑神域 19 Moon Cradle
 date:       2018-10-20
 author:     SAWAHIRO
-header-img: img/sao19IMG_0001.jpg
+header-img: img/sao19top.jpg
 catalog: true
 tags:
     - 翻译
