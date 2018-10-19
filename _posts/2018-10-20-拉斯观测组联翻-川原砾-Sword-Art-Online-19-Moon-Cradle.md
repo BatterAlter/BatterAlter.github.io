@@ -81,21 +81,32 @@ Sword Art Online ⑲ Moon Cradle
 ![](https://raw.githubusercontent.com/BatterAlter/BatterAlter.github.io/master/img/sao19IMG_0003.jpg)
 
  「——这样下去的话，总有一天会再次发生战争」
-       桐人§为《under world》带来和平的少年。
-       现在在央都圣托利亚《人界统一会议》就任《代表剑士》。
-  「怎，怎么会这样……」
-       萝涅·阿拉贝尔§桐人近侍的初等练士。
-       由于《大战》的武勋，现在在中央大教堂担任见习整合骑士。
+     
+   桐人§为《under world》带来和平的少年。
+   
+   现在在央都圣托利亚《人界统一会议》就任《代表剑士》。
+  
+ 「怎，怎么会这样……」
+       
+   萝涅·阿拉贝尔§桐人近侍的初等练士。
+       
+   由于《大战》的武勋，现在在中央大教堂担任见习整合骑士。
 
 ![](https://raw.githubusercontent.com/BatterAlter/BatterAlter.github.io/master/img/sao19IMG_0005.jpg)
 
- 「……在圣托利亚发生了由黑暗界人引起的《杀人事件》。」  
-　「不可能的……只要还存在《力量即法律》，黑暗界人就不能杀人界人」                               
-        伊修凯恩§《大战》时作为Dark Territory军的拳斗士公会主席在战斗。
-        现在是暗黑界军总司令部的司令官，计划着与人界交流。               
-   「如果犯人是人界人的话，那就意味着他可以无视禁忌目录」
-　       谢塔·Synthesis·Twelve§持有别名《无音》的整整合骑士。
-         《大战》后和共同战斗过的暗黑界人伊修凯恩结婚，现在作为人界全权大使在奥布西蒂亚城停留。
+「……在圣托利亚发生了由黑暗界人引起的《杀人事件》。」  
+　
+「不可能的……只要还存在《力量即法律》，黑暗界人就不能杀人界人」                               
+        
+   伊修凯恩§《大战》时作为Dark Territory军的拳斗士公会主席在战斗。
+    
+   现在是暗黑界军总司令部的司令官，计划着与人界交流。               
+   
+「如果犯人是人界人的话，那就意味着他可以无视禁忌目录」
+　       
+   谢塔·Synthesis·Twelve§持有别名《无音》的整整合骑士。
+         
+   《大战》后和共同战斗过的暗黑界人伊修凯恩结婚，现在作为人界全权大使在奥布西蒂亚城停留。
 
 ![](https://raw.githubusercontent.com/BatterAlter/BatterAlter.github.io/master/img/sao19IMG_0007.jpg)
 
