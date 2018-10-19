@@ -95,11 +95,9 @@ Sword Art Online ⑲ Moon Cradle
                    「不可能的……只要还存在《力量即法律》，黑暗界人就不能杀人界人」                               
                              伊修凯恩§《大战》时作为Dark Territory军的拳斗士公会主席在战斗。
                              现在是暗黑界军总司令部的司令官，计划着与人界交流。               
-                   
-                   
                    「如果犯人是人界人的话，那就意味着他可以无视禁忌目录」
 　                             谢塔·Synthesis·Twelve§持有别名《无音》的整合骑士。
-                                《大战》后和共同战斗过的暗黑界人伊修凯恩结婚，现在作为人界全权大使在奥布西蒂亚城停留。
+                              《大战》后和共同战斗过的暗黑界人伊修凯恩结婚，现在作为人界全权大使在奥布西蒂亚城停留。
 
 ![](https://raw.githubusercontent.com/BatterAlter/BatterAlter.github.io/master/img/sao19IMG_0007.jpg)
 
