@@ -89,9 +89,10 @@ Sword Art Online ⑲ Moon Cradle
 
 ![](https://raw.githubusercontent.com/BatterAlter/BatterAlter.github.io/master/img/sao19IMG_0005.jpg)
 
-   「……在圣托利亚发生了由黑暗界人引起的《杀人事件》。」  
+  「……在圣托利亚发生了由黑暗界人引起的《杀人事件》。」  
 　
-   「不可能的……只要还存在《力量即法律》，黑暗界人就不能杀人界人」                               
+   
+ 「不可能的……只要还存在《力量即法律》，黑暗界人就不能杀人界人」                               
                              
    伊修凯恩§《大战》时作为Dark Territory军的拳斗士公会主席在战斗。
    
