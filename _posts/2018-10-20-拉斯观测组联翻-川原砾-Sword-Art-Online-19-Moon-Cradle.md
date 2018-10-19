@@ -164,11 +164,12 @@ Sword Art Online ⑲ Moon Cradle
 
 
 ==========================================
-![](https://raw.githubusercontent.com/BatterAlter/BatterAlter.github.io/master/img/sao19IMG_0009.jpg)
+![](https://s1.ax1x.com/2018/10/20/i0mgMV.md.jpg)
 >
 >        「这虽然是游戏，但可不是闹着玩的。」
 >            ——《Sword Art Online》设计者　茅场晶彦
 >
+
 ==========================================
 
 
@@ -198,7 +199,7 @@ Sword Art Online ⑲ Moon Cradle
 
 
 
-###1
+1
 
 
 「萝涅，这边，这边！」
