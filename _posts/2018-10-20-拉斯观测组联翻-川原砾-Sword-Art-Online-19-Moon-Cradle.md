@@ -30,17 +30,9 @@ tags:
 
 >扫图：ALfheim组（http://alfheim.cc/ ）
 >
->原译：rkl(web版1-13节)
->      
->     义乐(web版14-37节)
+>原译：rkl(web版1-13节) 义乐(web版14-37节)
 >
->翻译：F(SAWAHIRO)
->     
->     鸡霸
->     
->     嵐天ですが
->     
->     青君
+>翻译：F(SAWAHIRO) 鸡霸 嵐天ですが 青君
 >
 >改编/监督/校对：F(SAWAHIRO)
 >
@@ -157,7 +149,6 @@ tags:
 
 
 ==========================================
-
 ![](https://raw.githubusercontent.com/BatterAlter/BatterAlter.github.io/master/img/sao19IMG_0009.jpg)
 >
 >        「这虽然是游戏，但可不是闹着玩的。」
