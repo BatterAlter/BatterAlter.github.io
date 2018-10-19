@@ -99,7 +99,7 @@ Sword Art Online ⑲ Moon Cradle
                    
                    「如果犯人是人界人的话，那就意味着他可以无视禁忌目录」
 　                             谢塔·Synthesis·Twelve§持有别名《无音》的整合骑士。
-                            《大战》后和共同战斗过的暗黑界人伊修凯恩结婚，现在作为人界全权大使在奥布西蒂亚城停留。
+                                《大战》后和共同战斗过的暗黑界人伊修凯恩结婚，现在作为人界全权大使在奥布西蒂亚城停留。
 
 ![](https://raw.githubusercontent.com/BatterAlter/BatterAlter.github.io/master/img/sao19IMG_0007.jpg)
 
