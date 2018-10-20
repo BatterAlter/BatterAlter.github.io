@@ -78,7 +78,7 @@ Sword Art Online ⑲ Moon Cradle
 
 ![](https://raw.githubusercontent.com/BatterAlter/BatterAlter.github.io/master/img/sao19IMG_0001.jpg)
 
-![](https://raw.githubusercontent.com/BatterAlter/BatterAlter.github.io/master/img/sao19IMG_0003.jpg)
+![](http://wx1.sinaimg.cn/mw690/0060lm7Tly1fwekfu41lwj31kw14n4qx.jpg)
 
  「——这样下去的话，总有一天会再次发生战争」
      
