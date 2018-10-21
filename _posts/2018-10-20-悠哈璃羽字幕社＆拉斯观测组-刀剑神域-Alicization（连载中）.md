@@ -32,3 +32,9 @@ tags:
 [简体](https://bangumi.moe/torrent/5bc30fa3de4560f455f660bf)
 
 [繁体](https://bangumi.moe/torrent/5bc31003de4560f455f660c3)
+
+第三集
+
+[简体](https://bangumi.moe/torrent/5bcc2244de4560f455f6838e)
+
+[繁体](https://bangumi.moe/torrent/5bcc226dde4560f455f68390)
