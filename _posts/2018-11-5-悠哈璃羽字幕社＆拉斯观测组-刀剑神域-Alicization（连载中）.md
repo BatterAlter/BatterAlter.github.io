@@ -21,6 +21,9 @@ tags:
 
 本次与悠哈璃羽的合作，我们将尽全力给各位带来最佳的观看体验！
 
+如果您喜欢本组作品，欢迎[投喂](https://afdian.net/@rathwork)支持！
+
+
 第一集
 
 [简体](https://bangumi.moe/torrent/5bba554fde4560f455f63a78)
