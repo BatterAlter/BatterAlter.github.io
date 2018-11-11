@@ -2,7 +2,7 @@
 layout:     post
 title:      悠哈璃羽字幕社＆拉斯观测组 刀剑神域Alicization（连载中）
 subtitle:   刀剑神域Alicization（连载中）
-date:       2018-11-5
+date:       2018-11-11
 author:     SAWAHIRO
 header-img: img/img_bk.jpg
 catalog: true
@@ -53,3 +53,9 @@ tags:
 [简体](https://bangumi.moe/torrent/5bdeb30cde4560f455f6d869)
 
 [繁体](https://bangumi.moe/torrent/5bdeb6f2de4560f455f6d895)
+
+第六集
+
+[简体](https://bangumi.moe/torrent/5be82409de4560f455f70314)
+
+[繁体](https://bangumi.moe/torrent/5be8204ade4560f455f702f2)
