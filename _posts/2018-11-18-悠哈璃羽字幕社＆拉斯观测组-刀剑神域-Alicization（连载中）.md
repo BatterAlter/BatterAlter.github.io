@@ -2,7 +2,7 @@
 layout:     post
 title:      悠哈璃羽字幕社＆拉斯观测组 刀剑神域Alicization（连载中）
 subtitle:   刀剑神域Alicization（连载中）
-date:       2018-11-11
+date:       2018-11-18
 author:     SAWAHIRO
 header-img: img/img_bk.jpg
 catalog: true
