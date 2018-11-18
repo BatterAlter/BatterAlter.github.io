@@ -59,3 +59,10 @@ tags:
 [简体](https://bangumi.moe/torrent/5be82409de4560f455f70314)
 
 [繁体](https://bangumi.moe/torrent/5be8204ade4560f455f702f2)
+
+第七集
+
+[简体](https://bangumi.moe/torrent/5bf1271bde4560f455f72a8f)
+
+[繁体](https://bangumi.moe/torrent/5bf123f4de4560f455f72a79)
+
