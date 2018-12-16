@@ -2,7 +2,7 @@
 layout:     post
 title:      悠哈璃羽字幕社＆拉斯观测组 刀剑神域Alicization（连载中）
 subtitle:   刀剑神域Alicization（连载中）
-date:       2018-12-10
+date:       2018-12-16
 author:     SAWAHIRO
 header-img: img/img_bk.jpg
 catalog: true
@@ -50,27 +50,7 @@ tags:
 
 第五集
 
-[简体](https://bangumi.moe/torrent/5bdeb30cde4560f455f6d869)
-
-[繁体](https://bangumi.moe/torrent/5bdeb6f2de4560f455f6d895)
-
-第六集
-
-[简体](https://bangumi.moe/torrent/5be82409de4560f455f70314)
-
-[繁体](https://bangumi.moe/torrent/5be8204ade4560f455f702f2)
-
-第七集
-
-[简体](https://bangumi.moe/torrent/5bf1271bde4560f455f72a8f)
-
-[繁体](https://bangumi.moe/torrent/5bf123f4de4560f455f72a79)
-
-第八集
-
-[简体](https://bangumi.moe/torrent/5bfa43c0de4560f455f756bf)
-
-[繁体](https://bangumi.moe/torrent/5bfa42b3de4560f455f756bc)
+[简yi体](https://bangumi.moe/torrent/5bfa42b3de4560f455f756bc)
 
 第九集
 
@@ -83,3 +63,9 @@ tags:
 [简体](https://bangumi.moe/torrent/5c0d295ede4560f455f7c174)
 
 [繁体](https://bangumi.moe/torrent/5c0d2a04de4560f455f7c181)
+
+第十一集
+
+[简体](https://bangumi.moe/torrent/5c16030bde4560f455f7efe8)
+
+[繁体](https://bangumi.moe/torrent/5c16028fde4560f455f7efe4)
