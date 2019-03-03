@@ -2,7 +2,7 @@
 layout:     post
 title:      悠哈璃羽字幕社＆拉斯观测组 刀剑神域Alicization（连载中）
 subtitle:   刀剑神域Alicization（连载中）
-date:       2019-3-2
+date:       2019-3-3
 author:     SAWAHIRO
 header-img: img/img_bk.jpg
 catalog: true
@@ -74,3 +74,9 @@ tags:
 [简体](https://bangumi.moe/torrent/5c729d34475bb7b27330bb6d)
 
 [繁体](https://bangumi.moe/torrent/5c729d0c475bb7b27330bb67)
+
+第20集
+
+[简体](https://bangumi.moe/torrent/5c7b6aa9475bb7b273311e11)
+
+[繁体](https://bangumi.moe/torrent/5c7b6a81475bb7b273311e0e)
