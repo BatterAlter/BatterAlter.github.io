@@ -19,7 +19,7 @@ tags:
 
 ---
 
-ME1 The Progressers               2007年11月18日    川原砾绘漫画 
+ME1 攻略者们                        2007年11月18日    川原砾绘漫画 
 
 ME2	Early Characters	            2008年2月10日	   设定集
 
