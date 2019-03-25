@@ -41,7 +41,7 @@ ME10 | [16.6](https://rath.work/2019/03/26/%E5%88%80%E5%89%91%E7%A5%9E%E5%9F%9F-
  
 ME11 | [16.7](https://rath.work/2019/03/26/%E5%88%80%E5%89%91%E7%A5%9E%E5%9F%9F-ME11/)	                 |        2014年2月2日	  | 后称《Sugary Days 2》 
  
-ME12 | 16.8	                 |       2014年5月5日	  | 后称《Sugary Days 3》 
+ME12 | [16.8](https://rath.work/2019/03/26/%E5%88%80%E5%89%91%E7%A5%9E%E5%9F%9F-ME12/)	                 |       2014年5月5日	  | 后称《Sugary Days 3》 
  
 ME13 | 16.9	                 |     2014年8月31日	  | 后称《Sugary Days 4》 
  
