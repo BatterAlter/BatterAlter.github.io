@@ -61,8 +61,7 @@ ME20 | Monochromatic Colors	  |   2016年8月21日	    | 《Chromatic Colors》�
  
 ME21 | SAOP4.2	              |     2016年10月23日     | 《SAOP4.1》后续 
 
-ME22 | [Augmented Magic](https://rath.work/2018/10/18/%E5%88%80%E5%89%91%E7%A5%9E%E5%9F%9F-ME22/
-)	      |     2017年2月12日      | 修改了剧场版《序列之争》时间线，后又改回，部分内容收入SAO21卷 
+ME22 | [Augmented Magic](https://rath.work/2018/10/18/%E5%88%80%E5%89%91%E7%A5%9E%E5%9F%9F-ME22/)	      |     2017年2月12日      | 修改了剧场版《序列之争》时间线，后又改回，部分内容收入SAO21卷 
  
 ME23 | Sugary Days 10	      |      2017年5月6日      |                     
  
