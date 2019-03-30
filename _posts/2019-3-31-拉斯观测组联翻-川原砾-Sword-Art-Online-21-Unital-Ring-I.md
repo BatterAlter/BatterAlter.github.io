@@ -2,7 +2,7 @@
 layout:     post
 title:      拉斯观测组联翻 川原砾 Sword Art Online 21 Unital Ring I 
 subtitle:   刀剑神域 21 Unital Ring I
-date:       2018-3-31
+date:       2019-3-31
 author:     SAWAHIRO
 header-img: img/sao21.jpg
 catalog: true
