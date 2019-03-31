@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      悠哈璃羽字幕社＆拉斯观测组 刀剑神域Alicization（连载中）
-subtitle:   刀剑神域Alicization（连载中）
-date:       2019-3-24
+title:      悠哈璃羽字幕社＆拉斯观测组 刀剑神域Alicization（人界篇完结）
+subtitle:   刀剑神域Alicization（人界篇完结）
+date:       2019-3-31
 author:     SAWAHIRO
 header-img: img/img_bk.jpg
 catalog: true
@@ -98,3 +98,11 @@ tags:
 [简体](https://bangumi.moe/torrent/5c9749b1475bb7b273325ab5)
 
 [繁体](https://bangumi.moe/torrent/5c974993475bb7b273325ab3)
+
+第24集（人界篇完结）
+
+[简体](https://bangumi.moe/torrent/5ca0938c475bb7b27332b266)
+
+[繁体](https://bangumi.moe/torrent/5ca09351475bb7b27332b263)
+
+第三季人界篇完结，10月异界战争篇继续更新！
