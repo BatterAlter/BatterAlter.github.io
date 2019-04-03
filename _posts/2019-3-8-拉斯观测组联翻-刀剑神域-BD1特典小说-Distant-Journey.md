@@ -63,7 +63,7 @@ Translated by the RATH Observation Group
 ![](https://ws1.sinaimg.cn/large/0078bOVFgy1g0vqg6n8pzj30u01b4dqk.jpg)
 
 
-1.
+1
 ---
 
 七百五十千米。
@@ -522,7 +522,7 @@ Translated by the RATH Observation Group
 
 
 
-2.
+2
 ---
 
 「幽灵……？」
@@ -863,7 +863,7 @@ Translated by the RATH Observation Group
 
 我们本来就打算在夜里零点爬起来，所以正好倒在跟昨夜相同的沙发上，立即切断了意识。这个世界里没有闹钟，所以能否在零点爬起来全靠运气。然而前发再次传来被拉扯的感觉，将我从熟睡的深渊中唤醒。
 
-
+---
 
 「喂，快起来，优吉欧。」
 
@@ -927,7 +927,7 @@ Translated by the RATH Observation Group
 
 
 
-3.
+3
 ---
 
 按照同少女的约定，我们从第二天早晨开始种地。话虽如此，所需要的作业其实也就是用一下在后院仓库发现的锄头而已。如果是现实世界的话，要手动耕作整一町步的田地可是很辛苦的。但是对于物品操作权限超过40的我和优吉欧来说，等级3的锄头实在是轻如鸿毛。我从东面开始，优吉欧则从西面开始，都在为了比对方先到达中央线而开始疯狂地工作——
