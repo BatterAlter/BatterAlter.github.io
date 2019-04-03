@@ -45,7 +45,7 @@ Sword Art Online 21 Unital Ring I
 
 本文首发于拉斯工作间（rath.work）
 
-Translate by the RATH Observation Group
+Translated by the RATH Observation Group
 
 ==========================================
 
