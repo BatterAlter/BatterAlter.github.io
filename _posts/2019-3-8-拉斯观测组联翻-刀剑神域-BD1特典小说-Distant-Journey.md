@@ -45,7 +45,7 @@ Distant Journey
 
 本文首发于拉斯工作间（rath.work）
 
-Translate by the RATH Observation Group
+Translated by the RATH Observation Group
 
 ==========================================
 
@@ -63,6 +63,7 @@ Translate by the RATH Observation Group
 
 
 1.
+---
 
 七百五十千米。
 
@@ -436,7 +437,7 @@ Translate by the RATH Observation Group
 
 我对迅速进入熟睡模式的伙伴喃喃说道，然后合上了眼皮。
 
-
+---
 
 突然，我感觉似乎有人拽了拽我前面的头发。
 
@@ -521,6 +522,7 @@ Translate by the RATH Observation Group
 
 
 2.
+---
 
 「幽灵……？」
 
@@ -618,7 +620,7 @@ Translate by the RATH Observation Group
 
 「唯独做梦这点可以排除。因为，幽灵说了些我不知道的事啊。」
 
-
+---
 
 旅舍的后院长着一些像是芹菜的植物——似乎是叫《卡尔达莫菜》——我们就着这野菜和果脯吃了一顿早饭。期间我给优吉欧重复了下幽灵少女最后说的话。
 
@@ -846,7 +848,7 @@ Translate by the RATH Observation Group
 
 「要是这也禁止的话，你觉得我的祖先大人们是怎么开拓出露莉德村的？」
 
-
+---
 
 我用青蔷薇之剑砍树的时候，优吉欧就用我的剑——《钢之刃》将枝叶削去做成原木——那是扎卡利亚卫兵队配发的剑，虽然粗糙但足够结实。就这样热火朝天地干了五个小时。
 
@@ -924,9 +926,8 @@ Translate by the RATH Observation Group
 
 
 
-
-
 3.
+---
 
 按照同少女的约定，我们从第二天早晨开始种地。话虽如此，所需要的作业其实也就是用一下在后院仓库发现的锄头而已。如果是现实世界的话，要手动耕作整一町步的田地可是很辛苦的。但是对于物品操作权限超过40的我和优吉欧来说，等级3的锄头实在是轻如鸿毛。我从东面开始，优吉欧则从西面开始，都在为了比对方先到达中央线而开始疯狂地工作——
 
@@ -998,7 +999,7 @@ Translate by the RATH Observation Group
 
 在我们报上名号之后，女孩的脸上露出了灿烂的笑容，像昨晚一样伸出了双手。握住的那只手，与昨晚不同，是有着血肉与温度的。
 
-
+---
 
 在那之后，听托拜伊说，自家的地被拉蒂诺家夺走了因此不能维持旅舍之后，比尔森家之后向南搬迁到福舍尔街。托拜伊只能在别的旅店里当个扫地工来支撑整个家庭。
 
@@ -1041,6 +1042,7 @@ Translate by the RATH Observation Group
 
 
 译者后记
+---
 
 1.
 
