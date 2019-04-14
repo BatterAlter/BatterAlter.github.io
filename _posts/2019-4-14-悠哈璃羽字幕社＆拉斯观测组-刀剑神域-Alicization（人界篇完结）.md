@@ -2,7 +2,7 @@
 layout:     post
 title:      悠哈璃羽字幕社＆拉斯观测组 刀剑神域Alicization（人界篇完结）
 subtitle:   刀剑神域Alicization（人界篇完结）
-date:       2019-3-31
+date:       2019-4-14
 author:     SAWAHIRO
 header-img: img/img_bk.jpg
 catalog: true
@@ -24,6 +24,12 @@ tags:
 如果您喜欢本组作品，欢迎[投喂](https://afdian.net/@rathwork)支持！
 
 [在线播放（测试中）](http://t.cn/EtbFeDi)
+
+1-24集人界篇合集
+
+[简体](https://bangumi.moe/torrent/5cadf3f7475bb7b273333a5b)
+
+[繁体](https://bangumi.moe/torrent/5cadf374475bb7b273333a52)
 
 1-13集合集
 
