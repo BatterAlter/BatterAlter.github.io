@@ -58,9 +58,9 @@ Translated by the RATH Observation Group
 
 ==========================================
 
-![](https://ws2.sinaimg.cn/large/0078bOVFgy1g0vqf0giqej30u015nqim.jpg)
+![](https://ae01.alicdn.com/kf/H37b0292d189f416f837b1914739ae028y.jpg)
 
-![](https://ws1.sinaimg.cn/large/0078bOVFgy1g0vqg6n8pzj30u01b4dqk.jpg)
+![](https://ae01.alicdn.com/kf/H4ffa9b23b5014ca091ee4828cc91a9123.jpg)
 
 
 1
@@ -478,7 +478,7 @@ Translated by the RATH Observation Group
 
 「大哥哥……不怕我吗？」
 
-![](https://ws3.sinaimg.cn/large/0078bOVFgy1g0vqhm4teij30u01aak5u.jpg)
+![](https://ae01.alicdn.com/kf/H9111828dcfdd4ddbb44790b88cc6ae9bs.jpg)
 
 虽然少女的嗫喏声让我感到她不属于这个世界，但Under World本身就很难说是「这个世界」。虽说是利用谜之企业拉斯开发的 《Mnemonic visitor（助记视觉）》这种可疑的数据形式构筑的世界，但Under World说到底还是个虚拟世界，难道真的闹鬼不成？如果不是真的鬼，那少女就是维持这个世界运行的系统生成的数字代码……不过迄今为止我还没有在人界见过幽灵系的怪物或NPC。
 
@@ -1075,7 +1075,7 @@ Translated by the RATH Observation Group
 
 最后就是作为一个优吉欧厨，故事的结尾又一次被鞭尸，真让我想给川原老贼一刀。
 
-![](https://ws4.sinaimg.cn/large/0078bOVFgy1g0vqmbb6qaj31gv0t679i.jpg)
+![](https://ae01.alicdn.com/kf/H3cb1a6378ff140d2907958d16c1814f9T.jpg)
 
 
 
@@ -1093,6 +1093,6 @@ Translated by the RATH Observation Group
 
 2019.3.8
 
-![](https://ws1.sinaimg.cn/large/0078bOVFgy1g0vqo987i1j30u016qk18.jpg)
+![](https://ae01.alicdn.com/kf/H1ad90563d64a42679379df4b089f3145b.jpg)
 
 如果您喜欢本组作品，欢迎[投喂](https://afdian.net/@rathwork)支持！
