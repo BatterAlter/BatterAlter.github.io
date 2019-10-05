@@ -313,7 +313,7 @@ log#7 2026-9-15 21:44-21:45
 
 「……啊，啊啊，爱丽丝，晚上好。」
 
-![](https://ws3.sinaimg.cn/large/005BYqpgly1g1lft6fmf2j30u016ohdt.jpg)
+![](https://ae01.alicdn.com/kf/H7dd413e7a6fb4261991dc32339d5a6a3a.jpg)
 
 我稍微举起右手向她打招呼，整合骑士爱丽丝·Synthesis·Thirty那细长型的猫耳「呼」的轻轻一抖。
 
