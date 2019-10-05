@@ -51,11 +51,11 @@ Translated by the RATH Observation Group
 
 ---
 
-![](https://ws3.sinaimg.cn/large/005BYqpgly1g1lfkrhhtgj30u016oe83.jpg)
+![](https://ae01.alicdn.com/kf/Hd0ca7616ad0c4b06931df9f8d4406fbfC.jpg)
 
-![](https://ws3.sinaimg.cn/large/005BYqpggy1g1lflk5exoj30u016o7wj.jpg)
+![](https://ae01.alicdn.com/kf/H79e90fd7db4349e58896c61a10bb819dM.jpg)
 
-![](https://ws3.sinaimg.cn/large/005BYqpggy1g1lfmf4q8qj30s80okad5.jpg)
+![](https://ae01.alicdn.com/kf/H62d8d6116f1e4654832ae21819c44350J.jpg)
 
 川原砾（LV56）
 
@@ -77,7 +77,7 @@ Translated by the RATH Observation Group
 
 ==========================================
 
-![](https://ws3.sinaimg.cn/large/005BYqpgly1g1lff5vm9fj31660u0qv8.jpg)
+![](https://ae01.alicdn.com/kf/H79a6504ff96646c38c695934fe0981036.jpg)
 
 「桐人君，那，那是……！」
 
@@ -92,7 +92,7 @@ Translated by the RATH Observation Group
 桐人§攻略了《SAO》，为《Under World》带来和平的少年。在《ALO》中是影妖精魔法剑士。
 
 
-![](https://ws3.sinaimg.cn/large/005BYqpggy1g1lfgf4r5nj31660u0e84.jpg)
+![](https://ae01.alicdn.com/kf/Ha0af541022014f9db85d0bfd8e0f131fp.jpg)
 
 「没想到居然是战斗事件呢。」
 
@@ -111,14 +111,14 @@ Translated by the RATH Observation Group
 伊杰尔玛§与玩家言语不通的NPC女战士。《巴欣族》野营地的领袖。
 
 
-![](https://ws3.sinaimg.cn/large/005BYqpggy1g1lfh8u36tj31660u07wj.jpg)
+![](https://ae01.alicdn.com/kf/Hbebe3cc2421a487285d6b99c861ee0ed6.jpg)
 
 「谢谢，结衣。接下来就交给我。」
 
 「《Sonic Leap》——！」
 
 
-![](https://ws3.sinaimg.cn/large/005BYqpggy1g1lfi5apeqj30u016ox6q.jpg)
+![](https://ae01.alicdn.com/kf/H7903ff2df6b249feb843736bf9e1dbd9E.jpg)
 
 《Unital Ring》世界边缘MAP（部分）
 
@@ -130,7 +130,7 @@ Translated by the RATH Observation Group
 
 ==========================================
 
-![](https://ws3.sinaimg.cn/large/005BYqpggy1g1lfjj40adj30u016ojyu.jpg)
+![](https://ae01.alicdn.com/kf/Hd7564b3af1e34addb133776dd76fb7385.jpg)
 
 「这虽然是游戏，但可不是闹着玩的。」
 
