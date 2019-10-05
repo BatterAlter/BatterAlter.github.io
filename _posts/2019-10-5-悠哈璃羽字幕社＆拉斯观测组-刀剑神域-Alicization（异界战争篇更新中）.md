@@ -13,7 +13,6 @@ tags:
     - 连载
 ---
 
-![](https://ae01.alicdn.com/kf/Hf708d3cc712a4475a305684b8ad4998bN.jpg)
 
 悠哈璃羽字幕社联合拉斯观测组，将从10月开始，为各位带来10月新番 刀剑神域Alicization（刀剑神域第三季）的联合翻译！
 
@@ -27,11 +26,15 @@ tags:
 
 1-24集人界篇合集（TV版）
 
+![](https://ae01.alicdn.com/kf/Hf708d3cc712a4475a305684b8ad4998bN.jpg)
+
 [简体](https://bangumi.moe/torrent/5cadf3f7475bb7b273333a5b)
 
 [繁体](https://bangumi.moe/torrent/5cadf374475bb7b273333a52)
 
 1-24集人界篇合集（BD版）
+
+![](https://ae01.alicdn.com/kf/Hffee02d3edca46cc9422eca5f2378156z.jpg)
 
 [繁简外挂](https://bangumi.moe/torrent/5d74d0f2306f1a0007bbcbde)
 
