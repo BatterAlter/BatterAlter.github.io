@@ -13,7 +13,7 @@ tags:
     - 连载
 ---
 
-![](https://wx3.sinaimg.cn/mw690/7d84dfddgy1fw7wiaaemtj20j60fstuf.jpg)
+![](https://ae01.alicdn.com/kf/Hf708d3cc712a4475a305684b8ad4998bN.jpg)
 
 悠哈璃羽字幕社联合拉斯观测组，将从10月开始，为各位带来10月新番 刀剑神域Alicization（刀剑神域第三季）的联合翻译！
 
