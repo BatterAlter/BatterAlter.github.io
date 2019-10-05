@@ -1812,7 +1812,7 @@ HP和MP我懂的——但是TP和SP究竟是啥？不，比起这个。
 
 「那个，是直叶吗？」
 
-![](https://ws3.sinaimg.cn/large/005BYqpgly1g1lg26xoz3j30u016o4qp.jpg)
+![](https://ae01.alicdn.com/kf/H05b31387da7d40889887deb471f591d4g.jpg)
 
 喊出妹妹的名字之后，我总之先询问道：
 
@@ -2197,7 +2197,7 @@ HP和MP我懂的——但是TP和SP究竟是啥？不，比起这个。
 
 「没错，不管来的是什么都哐地一记好球给他打回去。」
 
-![](https://ws3.sinaimg.cn/large/005BYqpggy1g1lg5xsem3j30u016o1kv.jpg)
+![](https://ae01.alicdn.com/kf/H7ababd810b834e0bbf779215860b0644k.jpg)
 
 莉兹贝特也小声说着，然后双手握锤，摆出一副拿球棒的架势。
 
@@ -3019,7 +3019,7 @@ HP和MP我懂的——但是TP和SP究竟是啥？不，比起这个。
 
 爱丽丝大叫着扑到我面前，然后交叉双臂。随即，针雨就吞噬了我们。咔咔咔咔！先是金属铠甲将针弹开的声音。然后是皮革和布被贯穿的钝音。然后我的右肩和左脚传来刺痛——这个倒没有，但是确实产生了种跟痛感十分接近，类似强烈的灼热和寒冷混合的感觉。
 
-![](https://ws3.sinaimg.cn/large/005BYqpgly1g1lgztdeooj30u016ob29.jpg)
+![](https://ae01.alicdn.com/kf/H5d2324bf664d442c98077f69e4879de5l.jpg)
 
 我视野左上方的HP条一口气减少了七成多，变成了深橙色。其余三人的HP也都减半了。视线朝右肩移动，那里深深插着一根长十五厘米，粗两毫米的针，虽是乳白色，却泛着金属的光泽。
 
@@ -3517,7 +3517,7 @@ HP和MP我懂的——但是TP和SP究竟是啥？不，比起这个。
 
 在被松明照亮的客厅里，女性阵容并排的站着。令人吃惊的是，全员穿着同样设计的像连衣裙一样的衣服。
 
-![](https://ws3.sinaimg.cn/large/005BYqpggy1g1lh5hfed1j30u016ob29.jpg)
+![](https://ae01.alicdn.com/kf/Hf1990bd7288b40b5a14db68be6c9259cd.jpg)
 
 「诶诶……那，那个怎么了！？」
 
@@ -4244,7 +4244,7 @@ HP和MP我懂的——但是TP和SP究竟是啥？不，比起这个。
 
 我的腹部产生了奇妙的感觉，又有点热又有点冷，又像痉挛又像麻痹。默默将视线下移，不知何时短剑使左手中的金属刀刃，已经深深没入了我的腹部。
 
-![](https://ws3.sinaimg.cn/large/005BYqpggy1g1lhf603j7j30u016o4qp.jpg)
+![](https://ae01.alicdn.com/kf/Hd3cbb97efd434f9ea7a9e65cc3a36295L.jpg)
 
 「桐人！」「桐人君！」
 
@@ -4636,7 +4636,7 @@ HP和MP我懂的——但是TP和SP究竟是啥？不，比起这个。
 
 默念，发动新的剑技。缠绕着蓝色光芒的剑身横向切开空气，发出呜呜的低吟，之后深深埋入莫克里的肋部。随即剑锋九十度旋转，直向上的斩击切开他的身体。
 
-![](https://ws3.sinaimg.cn/large/005BYqpggy1g1lhhau7ddj30u016o1kx.jpg)
+![](https://ae01.alicdn.com/kf/H77b6112bded54e92b31a2343d6685258Z.jpg)
 
 「咕啊啊！」
 
@@ -4839,7 +4839,7 @@ HP和MP我懂的——但是TP和SP究竟是啥？不，比起这个。
 
 「初次见面。我叫神邑樒……今天转到这个学校来的。请多关照，结城同学。」
 
-![](https://ws3.sinaimg.cn/large/005BYqpggy1g1lhj1frh2j30u016o7wh.jpg)
+![](https://ae01.alicdn.com/kf/Hf0dbc4af73e34f28b75d53e7731acf43K.jpg)
 
 ---
 
@@ -4897,7 +4897,7 @@ Unital Ring事件，是茅场的幽灵引发的吗？就算如此，又到底是
 
 「好久不见啊，小桐。」
 
-![](https://ws3.sinaimg.cn/large/005BYqpgly1g1lhkbww10j30u016o4qp.jpg)
+![](https://ae01.alicdn.com/kf/H27ad96131d5e4ebc878bfa7e3b5789b7I.jpg)
 
 （待续）
 
