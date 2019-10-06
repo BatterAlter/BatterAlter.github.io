@@ -41,3 +41,11 @@ tags:
 [VCB-Studio压制版](https://bangumi.moe/torrent/5d85b5f3306f1a0007bd1138)
 
 第三季人界篇完结，10月异界战争篇继续更新！
+
+-War of Underworld- 异界战争篇（连载中）
+
+24.5集
+
+[简体](https://bangumi.moe/torrent/5d99c627306f1a0007bea7d0)
+
+[繁体](https://bangumi.moe/torrent/5d99c5fb306f1a0007bea7c7)
