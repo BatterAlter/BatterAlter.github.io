@@ -44,7 +44,7 @@ tags:
 
 -War of Underworld- 异界战争篇（连载中）
 
-![](https://p.pstatp.com/origin/fffc000053406c713fe7)
+![](https://puui.qpic.cn/fans_admin/0/3_774326268_1571038072620/0)
 
 24.5集
 
