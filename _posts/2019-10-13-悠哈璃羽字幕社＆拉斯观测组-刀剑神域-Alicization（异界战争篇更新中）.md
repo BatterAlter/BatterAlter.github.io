@@ -44,6 +44,8 @@ tags:
 
 -War of Underworld- 异界战争篇（连载中）
 
+![](https://p.pstatp.com/origin/fffc000053406c713fe7)
+
 24.5集
 
 [简体](https://bangumi.moe/torrent/5d99c627306f1a0007bea7d0)
