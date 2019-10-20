@@ -2,7 +2,7 @@
 layout:     post
 title:      悠哈璃羽字幕社＆拉斯观测组 刀剑神域Alicization（异界战争篇更新中）
 subtitle:   刀剑神域Alicization（异界战争篇更新中）
-date:       2019-10-13
+date:       2019-10-20
 author:     SAWAHIRO
 header-img: img/img_bk.jpg
 catalog: true
