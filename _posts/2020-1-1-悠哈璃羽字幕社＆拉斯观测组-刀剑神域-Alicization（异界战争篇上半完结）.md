@@ -42,7 +42,7 @@ tags:
 
 第三季人界篇完结，10月异界战争篇继续更新！
 
--War of Underworld- 异界战争篇（连载中）
+-War of Underworld- 异界战争篇（上半完结）
 
 ![](https://puui.qpic.cn/fans_admin/0/3_774326268_1571038072620/0)
 
