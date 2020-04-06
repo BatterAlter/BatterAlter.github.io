@@ -57,9 +57,9 @@ Sword Art Online   22   Kiss and Fly
 
 ![](https://pic.downk.cc/item/5e8b67d7504f4bcb0476a2d1.jpg)
 
-![](https://pic.downk.cc/item/5e8b6c32504f4bcb047aa3b8.jpg)
-
 ![](https://pic.downk.cc/item/5e8b7dbc504f4bcb04885d85.jpg)
+
+![](https://pic.downk.cc/item/5e8b6c32504f4bcb047aa3b8.jpg)
 
 川原砾（LV60）
 
@@ -89,6 +89,8 @@ Sword Art Online   22   Kiss and Fly
 
 「午安，好久不见了。」
 
+---
+
 ![](https://pic.downk.cc/item/5e8b6d91504f4bcb047bf82e.jpg)
 
 「嗯……有……感、觉……」
@@ -98,6 +100,8 @@ Sword Art Online   22   Kiss and Fly
 「嗯……果然BSIS的信号水平应该是正常的……」
 
 桐人§从死亡游戏《SAO》中拯救了被囚禁的玩家们的《黑之剑士》。《ALO》中使用Spriggan族的虚拟形象。
+
+---
 
 ![](https://pic.downk.cc/item/5e8b6dc7504f4bcb047c2a97.jpg)
 
@@ -113,6 +117,8 @@ Sword Art Online   22   Kiss and Fly
 
 莉兹贝特§《SAO》中为桐人打造剑的少女。在《ALO》中以Leprechaun族锻造师的身份经营武器店。
 
+---
+
 ![](https://pic.downk.cc/item/5e8b6df3504f4bcb047c4c4f.jpg)
 
 「我、我只是在前面挥刀而已，配合时机的人是姐姐……」
@@ -126,6 +132,8 @@ Sword Art Online   22   Kiss and Fly
 「两个人也太默契了吧！」
 
 梅丽达§《Sleeping Knights》的成员。将优纪和兰带到了VRMMORPG《Asuka Empire》。
+
+---
 
 ![](https://pic.downk.cc/item/5e8b6e1d504f4bcb047c6a79.jpg)
 
@@ -158,7 +166,7 @@ The Day Before
 
 艾恩葛朗特第二十二层 2024年10月
 
-=========================
+---
 
 1
 
