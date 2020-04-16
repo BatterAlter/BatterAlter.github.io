@@ -24,6 +24,8 @@ If You Wish It
 
 作者：川原砾
 
+插图：abec
+
 ==========================================
 
 图源：[官网](https://sao-alicization.net/bddvd/02.html) （试读部分） ドラAもん
