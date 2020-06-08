@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      合作翻译 刀剑神域 abec画集短篇 Prismatic Colors
-subtitle:   刀剑神域 Prismatic Colors （5/15连载中）
+subtitle:   刀剑神域 Prismatic Colors 
 date:       2020-6-9
 author:     SAWAHIRO
 header-img: img/pc.jpg
