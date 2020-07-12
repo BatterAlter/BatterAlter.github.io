@@ -22,7 +22,7 @@ tags:
 
 如果您喜欢本组作品，欢迎[投喂](https://afdian.net/@rathwork)支持！
 
-[在线播放（已挂）](http://t.cn/EtbFeDi)
+[在线播放（恢复测试中）](https://uhawings.icu/SAO3/)
 
 1-24集人界篇合集（TV版）
 
