@@ -2,7 +2,7 @@
 layout:     post
 title:      悠哈璃羽字幕社＆拉斯观测组 刀剑神域Alicization（异界战争终篇开始连载）
 subtitle:   刀剑神域Alicization（异界战争终篇开始连载）
-date:       2020-9-3
+date:       2020-9-10
 author:     SAWAHIRO
 header-img: img/img_bk.jpg
 catalog: true
@@ -167,3 +167,11 @@ tags:
 [简体](https://bangumi.moe/torrent/5f50e2a132f14c000710637e)
 
 [繁体](https://bangumi.moe/torrent/5f50e29932f14c000710637c)
+
+45集
+
+[简体](https://bangumi.moe/torrent/5f5949ad32f14c000711e891)
+
+[繁体](https://bangumi.moe/torrent/5f5949bc32f14c000711e89c)
+
+
