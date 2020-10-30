@@ -107,7 +107,7 @@ Translated by the RATH Observation Group
 
 「唔……！」
 
-作为《Under World》的整合骑士，也是世界最初真正的通用人工智能。在《Unital Ring》中使用的武器是一手半剑。
+爱丽丝§作为《Under World》的整合骑士，也是世界最初真正的通用人工智能。在《Unital Ring》中使用的武器是一手半剑。
 
 「这个家就由我们保护！」
 
