@@ -57,7 +57,7 @@ Translated by the RATH Observation Group
 
 ![](https://pic.downk.cc/item/5fce0d3a3ffa7d37b3dcde51.jpg)
 
-![](https://pic.downk.cc/item/5f9c0c511cd1bbb86b4e4515.jpg)
+![](https://pic.downk.cc/item/5fce0d5d3ffa7d37b3dcf7e0.jpg)
 
 川原砾（LV61）
 
