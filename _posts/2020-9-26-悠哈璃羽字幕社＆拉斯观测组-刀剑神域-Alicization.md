@@ -81,6 +81,12 @@ tags:
 
 [繁体](https://bangumi.moe/torrent/5dc7d6c5306f1a0007c264c8)
 
+30集
+
+[简体](https://bangumi.moe/torrent/5dd12c3d306f1a0007c32e3f)
+
+[繁体](https://bangumi.moe/torrent/5dd12c0a306f1a0007c32e37)
+
 31集
 
 [简体](https://bangumi.moe/torrent/5ddd1e90306f1a0007c446ed)
