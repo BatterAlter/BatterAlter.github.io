@@ -2,7 +2,7 @@
 layout:     post
 title:      悠哈璃羽字幕社＆拉斯观测组 刀剑神域Alicization
 subtitle:   刀剑神域Alicization
-date:       2020-9-26
+date:       2021-1-1
 author:     SAWAHIRO
 header-img: img/img_bk.jpg
 catalog: true
@@ -21,7 +21,7 @@ tags:
 
 如果您喜欢本组作品，欢迎[投喂](https://afdian.net/@rathwork)支持！
 
-[在线播放（恢复测试中）](https://uhawings.icu/SAO3/)
+[在线播放（失效）](https://uhawings.icu/SAO3/)
 
 1-24集人界篇合集（TV版）
 
@@ -44,6 +44,10 @@ tags:
 -War of Underworld- 异界战争篇（上半完结）
 
 ![](https://puui.qpic.cn/fans_admin/0/3_774326268_1571038072620/0)
+
+异界战争篇合集（BD版）
+
+[繁简外挂](https://bangumi.moe/torrent/5fe911a832f14c00073210b2)
 
 24.5集
 
