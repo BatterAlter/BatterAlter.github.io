@@ -53,7 +53,7 @@ Translated by the RATH Observation Group
 
 ---
 
-![](https://img.imgdb.cn/item/60671f738322e6675c2b5178.png)
+![](https://img.imgdb.cn/item/606aede18322e6675ca1e4ba.jpg)
 
 ![](https://img.imgdb.cn/item/60671f738322e6675c2b5180.jpg)
 
