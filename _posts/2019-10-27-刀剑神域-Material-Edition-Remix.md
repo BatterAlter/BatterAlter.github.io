@@ -30,7 +30,7 @@ Material Edition Remix
 
 详细制作信息见目录页
 
-下载请点[这里](https://pan.baidu.com/s/1aU5-dFD77CyzacsACupTog)， 提取码: c635 
+下载请点[这里](https://www.aliyundrive.com/s/pP8kVMusv6N)
 
 ![](https://ae01.alicdn.com/kf/H799932330c8c4d85ba4f652e0ce01898F.jpg)
 
