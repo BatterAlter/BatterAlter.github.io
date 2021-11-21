@@ -72,7 +72,7 @@ gitalk:
 ba_track_id: 5834182ce2ae7baa65745c77d1dc1ca1
 
 # Google Analytics
-ga_track_id: 'UA-213450064-2'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-213450064-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto
 
 # Featured Tags
