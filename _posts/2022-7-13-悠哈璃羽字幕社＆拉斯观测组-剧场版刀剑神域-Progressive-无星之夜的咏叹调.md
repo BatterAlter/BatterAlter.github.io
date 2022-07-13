@@ -2,7 +2,7 @@
 layout:     post
 title:      悠哈璃羽字幕社＆拉斯观测组 剧场版刀剑神域 Progressive 无星之夜的咏叹调
 subtitle:   刀剑神域 Progressive 无星之夜的咏叹调
-date:       2022-7-14
+date:       2022-7-13
 author:     SAWAHIRO
 header-img: img/saopp1.jpg
 catalog: true
