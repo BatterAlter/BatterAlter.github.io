@@ -16,6 +16,8 @@ tags:
 
 ![](https://pic.imgdb.cn/item/62cf05d8f54cd3f937b94ba5.jpg)
 
+[在线播放](https://www.acfun.cn/v/ac35717454)
+
 [简日双语](https://bangumi.moe/torrent/62ceecf40274d40007023f5d)
 
 [繁日双语](https://bangumi.moe/torrent/62ceed160274d40007023fb0)
