@@ -59,7 +59,7 @@ Translated by the RATH Observation Group
 
 ==========================================
 
-![](https://ae01.alicdn.com/kf/Ha38ab0769a544312a74f6d4b92b680f4q.jpg)
+![](https://pic.imgdb.cn/item/5da59dc4451253d178a3e91e.jpg)
 
 1
 ---
@@ -1438,7 +1438,7 @@ Cardinal动动指尖，之前的黑色小蜘蛛便从我领子内嗖地跳出，
 
 坐在对面的Cardinal也紧接着做出「老身也略作品尝」的表态，两人同时使用叉子切出蛋糕的尖端部分。凝视数秒粘在浇了乳白奶油的黄色蛋糕之上的鲜红草莓，张口咬下——紧接着。
 
-![](https://ae01.alicdn.com/kf/H3a22060f3e114779a75cc99d68c883cc6.jpg)
+![](https://pic.imgdb.cn/item/5da59dc4451253d178a3e920.jpg)
 
 ！！
 
