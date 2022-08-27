@@ -58,7 +58,7 @@ Translated by the RATH Observation Group
 
 ==========================================
 
-![](https://pic.downk.cc/item/5e1dea042fb38b8c3c88c57d.jpg)
+![](https://pic.imgdb.cn/item/5e1dea042fb38b8c3c88c57d.jpg)
 
 1
 ---
@@ -1543,7 +1543,7 @@ Minion这一单语，上周的茶会里也被Cardinal提起来过。虽然同属
 
 「我是暗黑骑士第十一位，名为利皮雅·赞凯尔！遵循主人之命来访此地！此行是为请求拜见整合骑士的指挥官一面！」
 
-![](https://pic.downk.cc/item/5e98871bc2a9a83be5c200ca.jpg)
+![](https://pic.imgdb.cn/item/5e98871bc2a9a83be5c200ca.jpg)
 
 （待续）
 
