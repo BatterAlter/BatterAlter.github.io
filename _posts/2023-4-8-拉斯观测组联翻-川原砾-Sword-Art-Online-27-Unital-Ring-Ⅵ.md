@@ -142,7 +142,7 @@ Translated by the RATH Observation Group
 
 480年 星界统一会议设立 人界历结束、星界历开始
 
----
+
 
 星界历
 
@@ -150,7 +150,7 @@ Translated by the RATH Observation Group
 
 582年 桐人、亚丝娜、爱丽丝再次来到Under World/萝涅、缇卓、塞尔卡的石化冻结被解除
 
-==========================================
+
 
 ![](https://pic.imgdb.cn/item/6430b45a0d2dde57779f5996.jpg)
 
