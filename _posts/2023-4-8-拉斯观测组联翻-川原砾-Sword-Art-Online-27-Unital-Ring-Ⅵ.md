@@ -158,7 +158,6 @@ Translated by the RATH Observation Group
 
 ——《Sword Art Online》设计者　茅场晶彦
     
-==========================================
 
 ---
 
