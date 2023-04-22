@@ -2,7 +2,7 @@
 layout:     post
 title:      拉斯观测组 刀剑神域Progressive 剧场版2 BD特典小说 Curable Pain
 subtitle:   刀剑神域Progressive 剧场版2 BD特典小说 Curable Pain
-date:       2023-4-23
+date:       2023-4-22
 author:     SAWAHIRO
 header-img: img/cp.png
 catalog: true
