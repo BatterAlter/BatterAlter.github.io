@@ -16,7 +16,7 @@ tags:
 
 ==========================================
 
-Sword Art Online
+Sword Art Online Progressive
 
 Curable Pain
 
