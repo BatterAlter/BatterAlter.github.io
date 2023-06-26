@@ -18,7 +18,7 @@ tags:
 
 Sword Art Online
 
-Progressive: Memorable Song
+Memorable Song
 
 艾恩葛朗特第一层 2022年12月
 
