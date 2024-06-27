@@ -105,7 +105,7 @@ Translated by the RATH Observation Group
 ---
 
 1 SAO ～if Pitohui被卷入SAO事件的话～
----
+===
 
 ![](https://images2.imgbox.com/25/93/V5qfxkPU_o.jpg)
 
@@ -494,7 +494,7 @@ Translated by the RATH Observation Group
 ---
 
 2 假如桐人与亚丝娜在僵尸游戏中游玩
----
+===
 
 ![](https://images2.imgbox.com/f2/b5/ZT94j3x0_o.jpg)
 
@@ -1657,7 +1657,7 @@ BETA测试开始已经四天。随着游戏进行总时长的上升，装备着�
 ---
 
 3 Dream Game —— Crossover ——
----
+===
 
 ![](https://images2.imgbox.com/e1/58/ud1nffka_o.jpg)
 
@@ -2938,7 +2938,7 @@ BETA测试开始已经四天。随着游戏进行总时长的上升，装备着�
 ---
 
 4 死亡游戏脱落篇
----
+===
 
 ![](https://images2.imgbox.com/70/0e/UjKIpDly_o.jpg)
 
@@ -2949,7 +2949,7 @@ BETA测试开始已经四天。随着游戏进行总时长的上升，装备着�
 ---
 
 5 名侦探小历 / 斑纹猫
----
+===
 
 ![](https://images2.imgbox.com/02/22/nS2jSdF9_o.jpg)
 
@@ -2964,7 +2964,7 @@ BETA测试开始已经四天。随着游戏进行总时长的上升，装备着�
 ---
 
 6 at the Children's Steps
----
+===
 
 ![](https://images2.imgbox.com/bc/d7/vzff4TwN_o.jpg)
 
@@ -3817,7 +3817,7 @@ Sword Art Online的世界里，女性玩家极其地少。正因如此，现实�
 ---
 
 7 这份诅咒要如何解除才好  —西莉卡与幽灵少女—
----
+===
 
 ![](https://images2.imgbox.com/80/e2/FGJxQROX_o.jpg)
 
@@ -3828,7 +3828,7 @@ Sword Art Online的世界里，女性玩家极其地少。正因如此，现实�
 ---
 
 8 假如亚丝娜开了餐厅后，关于桐人立场的故事
----
+===
 
 ![](https://images2.imgbox.com/c5/e6/zxsJxtl0_o.jpg)
 
@@ -4709,7 +4709,7 @@ Sword Art Online的世界里，女性玩家极其地少。正因如此，现实�
 ---
 
 9 Sword art Online If You Can Smile
----
+===
 
 ![](https://images2.imgbox.com/2b/10/z2evLABv_o.jpg)
 
@@ -4972,7 +4972,7 @@ Sword Art Online的世界里，女性玩家极其地少。正因如此，现实�
 ---
 
 后记
----
+===
 
 ![](https://images2.imgbox.com/97/32/v9o3Igs6_o.jpg)
 
@@ -4985,7 +4985,7 @@ Sword Art Online的世界里，女性玩家极其地少。正因如此，现实�
 ---
 
 翻译说明
----
+===
 
 对，这期不是翻译后记，是说明。
 
