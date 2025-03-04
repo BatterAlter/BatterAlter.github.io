@@ -5868,4 +5868,4 @@ SAWAHIRO
 
 =========================
 
-如果您喜欢本组作品，欢迎[投喂](https://afdian.net/@rathwork)支持！
+如果您喜欢本组作品，欢迎[投喂](https://afdian.com/a/rathwork)支持！
