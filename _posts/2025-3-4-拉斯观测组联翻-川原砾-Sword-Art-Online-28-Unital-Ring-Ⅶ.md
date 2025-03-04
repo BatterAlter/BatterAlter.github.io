@@ -49,7 +49,7 @@ Translated by the RATH Observation Group
 
 ==========================================
 
-![](https://i.imgur.com/NeCnznW.jpeg)
+![](https://imgbox.com/veLSJ85I.jpg)
 ![](https://i.imgur.com/KmZmEuB.jpeg)
 ![](https://i.imgur.com/WWpYCoz.jpeg)
 
