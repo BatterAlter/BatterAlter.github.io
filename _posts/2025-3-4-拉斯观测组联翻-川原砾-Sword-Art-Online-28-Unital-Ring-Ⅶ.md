@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      拉斯观测组联翻 川原砾 Sword Art Online 28 Unital Ring Ⅶ 
-subtitle:   刀剑神域 27 Unital Ring Ⅶ
+subtitle:   刀剑神域 28 Unital Ring Ⅶ
 date:       2025-3-4
 author:     SAWAHIRO
 header-img: img/sao28.jpg
