@@ -6,11 +6,9 @@
                 <ul class="list-inline text-center">
                     {% if site.RSS %}
                     <li>
-                        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-                            </span>
+                        <a href="{{ '/feed.xml' | relative_url }}" target="_blank" title="RSS Feed">
+                            <i class="fas fa-rss"></i>
+                            <span class="sr-only">RSS</span>
                         </a>
                     </li>
                     {% endif %}
@@ -39,21 +37,17 @@
                     <!-- add Weibo, Zhihu by Hux, add target = "_blank" to <a> by Hux -->
                     {% if site.zhihu_username %}
                     <li>
-                        <a target="_blank" href="https://www.zhihu.com/people/{{ site.zhihu_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa  fa-stack-1x fa-inverse">知</i>
-                            </span>
+                        <a href="https://www.zhihu.com/people/{{ site.zhihu_username }}" target="_blank" title="知乎">
+                            <i class="fab fa-zhihu"></i>
+                            <span class="sr-only">知乎</span>
                         </a>
                     </li>
                     {% endif %}
                     {% if site.weibo_username %}
                     <li>
-                        <a target="_blank" href="http://weibo.com/{{ site.weibo_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
-                            </span>
+                        <a href="https://weibo.com/{{ site.weibo_username }}" target="_blank" title="微博">
+                            <i class="fab fa-weibo"></i>
+                            <span class="sr-only">微博</span>
                         </a>
                     </li>
                     {% endif %}
@@ -71,11 +65,9 @@
                     {% endif %}
                     {% if site.github_username %}
                     <li>
-                        <a target="_blank" href="https://github.com/{{ site.github_username }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                            </span>
+                        <a href="https://github.com/{{ site.github_username }}" target="_blank" title="GitHub">
+                            <i class="fab fa-github"></i>
+                            <span class="sr-only">GitHub</span>
                         </a>
                     </li>
                     {% endif %}
@@ -92,7 +84,8 @@
                     {% if site.bilibili_username %}
                     <li>
                         <a href="https://space.bilibili.com/{{ site.bilibili_username }}" target="_blank" title="Bilibili">
-                            <i class="fa-brands fa-bilibili"></i>
+                            <i class="fab fa-bilibili"></i>
+                            <span class="sr-only">Bilibili</span>
                         </a>
                     </li>
                     {% endif %}
