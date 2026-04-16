@@ -20,7 +20,6 @@ RSS: true
 weibo_username:     fengxiaogang97
 zhihu_username:     batteralter
 twitter_username:   swordland1
-bilibili_username:  2687038
 
 
 
@@ -98,3 +97,6 @@ friends: [
         href: "https://tieba.baidu.com/f?fr=wwwt&kw=%E5%B7%9D%E5%8E%9F%E7%A0%BE"
     }
 ]
+
+# 自定义社交链接
+bilibili_username:  2687038
