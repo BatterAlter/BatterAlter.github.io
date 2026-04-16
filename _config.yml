@@ -20,7 +20,7 @@ RSS: true
 weibo_username:     fengxiaogang97
 zhihu_username:     batteralter
 twitter_username:   swordland1
-
+bilibili_username:  2687038
 
 
 # Build settings
@@ -98,5 +98,4 @@ friends: [
     }
 ]
 
-# 自定义社交链接
-bilibili_username:  2687038
+
