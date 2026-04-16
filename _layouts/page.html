@@ -115,11 +115,9 @@ layout: default
                         <ul class="list-inline">
                             {% if site.RSS %}
                             <li>
-                                <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
-                                    <span class="fa-stack fa-lg">
-                                        <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-                                    </span>
+                                <a href="{{ '/feed.xml' | relative_url }}" target="_blank" title="RSS Feed">
+                                    <i class="fas fa-rss"></i>
+                                    <span class="sr-only">RSS</span>
                                 </a>
                             </li>
                             {% endif %}
