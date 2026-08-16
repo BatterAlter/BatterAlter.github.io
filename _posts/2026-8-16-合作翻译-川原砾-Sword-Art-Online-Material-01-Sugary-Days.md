@@ -31,7 +31,7 @@ Sword Art Online Material 01 Sugary Days
 
 原译：rkl KCMasaki 汐月
 
-校对/润色：rkl
+校对/润色：rkl SAWAHIRO
 
 修图/嵌字：SAWAHIRO
 
