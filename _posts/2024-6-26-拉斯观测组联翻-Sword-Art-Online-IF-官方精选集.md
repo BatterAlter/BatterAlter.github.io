@@ -50,11 +50,11 @@ Translated by the RATH Observation Group
 
 ==========================================
 
-![](https://images2.imgbox.com/02/fe/KbKchNrv_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/14a3527cd1f288d115712310c9187299.jpg)
 
-![](https://images2.imgbox.com/74/60/tnN22alv_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/8633730571b1610f81a4f1a75f50e939.jpg)
 
-![](https://images2.imgbox.com/cc/34/52wMVIXM_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/8e4803655d1389c5549f824113a78c61.jpg)
 
 川原砾（LV76）
 
@@ -80,38 +80,38 @@ Translated by the RATH Observation Group
 
 ==========================================
 
-![](https://images2.imgbox.com/f0/63/lXmxEZXp_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/a09468e0daaac7d5298eeebb6b50b1de.jpg)
 
-![](https://images2.imgbox.com/af/55/qn0pPIWd_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/968bdc5eee5d0d2e7f0e1434d02010c8.jpg)
 
-![](https://images2.imgbox.com/59/b9/eoYuSd2t_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/786b71f7f3f54aec5e7bd81a9e669bfc.jpg)
 
-![](https://images2.imgbox.com/3e/62/xH8o5fUb_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/381f7b94c8ff29350e55b05146ac1a4e.jpg)
 
-![](https://images2.imgbox.com/d6/ca/LQy5AuyP_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/955a4d82f2f345d73304f74f5accce90.jpg)
 
-![](https://images2.imgbox.com/80/e0/ouSOnRhR_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/79d4b3b9e7ef93682264e4ad56476b13.jpg)
 
-![](https://images2.imgbox.com/d4/3f/mPR1r1du_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/3e7769ee948b1fa781951b1ec663cf75.jpg)
 
-![](https://images2.imgbox.com/1b/0b/uGCqtAMT_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/e1fd98eca90117f85968fbe5982507cd.jpg)
 
-![](https://images2.imgbox.com/de/6c/ZCqyNVf6_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/4c061bd2ea98516676a2a7ea2efab248.jpg)
 
-![](https://images2.imgbox.com/46/64/KHo7LoWS_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/1df458745044cffba8d949bdd7beb741.jpg)
 
-![](https://images2.imgbox.com/0f/c4/eBwrOYwN_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/b979c15406b1bc24bf120260a3ce9d4f.jpg)
 
 ---
 
 1 SAO ～if Pitohui被卷入SAO事件的话～
 ===
 
-![](https://images2.imgbox.com/25/93/V5qfxkPU_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/783b86c8b3a8169c6af112401a71331e.jpg)
 
-![](https://images2.imgbox.com/65/9c/EA0CLkX9_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/a2f3f2423823123ce5a029ab15bc93b3.jpg)
 
-![](https://images2.imgbox.com/9a/d0/Ytcuv7nr_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/3e44c1dc0379d2101333daec1a5e7836.jpg)
 
 某日在VRMMORPG《Gun Gale Online》的某处。
 
@@ -461,7 +461,7 @@ Translated by the RATH Observation Group
 
 「从最一开始就没想过要回家……」
 
-![](https://images2.imgbox.com/2c/95/8rriYeJB_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/63e88a93aa800557224f8541f81f3427.jpg)
 
 「——做了这样一个梦呦。」
 
@@ -496,7 +496,7 @@ Translated by the RATH Observation Group
 2 假如桐人与亚丝娜在僵尸游戏中游玩
 ===
 
-![](https://images2.imgbox.com/f2/b5/ZT94j3x0_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/da57b1ecb6d8cb3881fa82962e6a7b47.jpg)
 
 ①
 ------
@@ -1116,7 +1116,7 @@ DWO采用的是MMO类型游戏中罕见的「二人组队制」。即使其中�
 
 「咻」地腾空的丧尸，其破烂的躯体在空中几番旋转，螺旋着在地上又弹起两次，裹挟着周遭数头丧尸，「啪啦啪啦」地在地上滑出好远……当其最终停下的时候，已经是一动不动，发出无机质的光效四散消失了。
 
-![](https://images2.imgbox.com/60/83/mdfvHkUN_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/3b0469ad98308fdf6ef8bfc5725c965c.jpg)
 
 ……瞬间，全场被完全的沉默笼罩。
 
@@ -1659,11 +1659,11 @@ BETA测试开始已经四天。随着游戏进行总时长的上升，装备着�
 3 Dream Game —— Crossover ——
 ===
 
-![](https://images2.imgbox.com/e1/58/ud1nffka_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/73ada06113af34becb9f3135e97602ab.jpg)
 
-![](https://images2.imgbox.com/ca/19/1ZsKocJ5_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/21503c282dd3f1ed5bb3ec6d82ffba80.jpg)
 
-![](https://images2.imgbox.com/d5/78/4JvcVt6m_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/d83c776968eb27ef9ca44d05963a2bf6.jpg)
 
 在魔法学领域中有一类物品被称为「圣遗物」。指的是具有魔法功能，且无法通过21世纪末的现有技术复制的特殊奇物。
 
@@ -2940,7 +2940,7 @@ BETA测试开始已经四天。随着游戏进行总时长的上升，装备着�
 4 死亡游戏脱落篇
 ===
 
-![](https://images2.imgbox.com/70/0e/UjKIpDly_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/f6157ecb0bf2d5dc60ad2ca7bbb4058b.jpg)
 
 
 那个瞬间，在我身上发生了一连串难忍发笑的不幸。
@@ -3787,7 +3787,7 @@ SAO的系统将我脸上不悦的表情清楚地显示了出来。但其实我�
 
 现在，我得到了可以自由活动的虚拟角色。一直以来困扰着我的疾病，在游戏里也感觉不到了。所以，害怕的应该是他们才对。因为我得到了原本的力量。
 
-![](https://images2.imgbox.com/81/79/nxHNniEo_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/d7fc22b996e422809f1d01453e0712ca.jpg)
 
 我端正姿势。
 
@@ -3810,13 +3810,13 @@ SAO的系统将我脸上不悦的表情清楚地显示了出来。但其实我�
 5 名侦探小历 / 斑纹猫
 ===
 
-![](https://images2.imgbox.com/02/22/nS2jSdF9_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/bbee2958c2ac9fa5701173eadbd4eece.jpg)
 
-![](https://images2.imgbox.com/47/24/jG69Ga2p_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/7f7d698a54f168a26ce4cf7abf232b99.jpg)
 
-![](https://images2.imgbox.com/f5/84/xGSGjdFQ_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/1b7f15e57b355ff6ce227f5e126a8f3c.jpg)
 
-![](https://images2.imgbox.com/e8/5e/mwCA4PuF_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/bda85abf7293e2af8fd66d4212371d9f.jpg)
 
 暂无翻译
 
@@ -3825,7 +3825,7 @@ SAO的系统将我脸上不悦的表情清楚地显示了出来。但其实我�
 6 at the Children's Steps
 ===
 
-![](https://images2.imgbox.com/bc/d7/vzff4TwN_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/d8549a162ec07cc952536cf688bd955a.jpg)
 
 这是又一个「如果说」的故事。
 
@@ -4049,7 +4049,7 @@ NerveGear的适用年龄大致是13岁以上。所以，我是稍稍使用了一
 
 像刚刚那样的亲密接触总是很丰富，也经常看到桐人君满脸通红地抵抗。Sylph族给人身材纤细的印象，但莉珐小姐的虚拟体身材却非常好。被那样的人抱紧的话，就算是正值青春的男孩子，桐人君满脸通红也是无可奈何的——因为我并没有兄弟姐妹，对于就算是有血缘关系的人，是不是也会「害羞」这件事不太清楚。
 
-![](https://images2.imgbox.com/32/48/4TkyX3fK_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/510825c35bfaf9558df6e061e3247298.jpg)
 
 看着像这样一起玩耍的两人，我无论怎样都会回想起，那时候发生的事。
 
@@ -4678,9 +4678,9 @@ Sword Art Online的世界里，女性玩家极其地少。正因如此，现实�
 7 这份诅咒要如何解除才好  —西莉卡与幽灵少女—
 ===
 
-![](https://images2.imgbox.com/80/e2/FGJxQROX_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/c04b3a6df7f7398f0c1cbd36347bd3b3.jpg)
 
-![](https://images2.imgbox.com/2a/3a/TTYiMS3V_o.jpg)
+![](https://pic.imgdd.cc/i/0348MWfkYAIzPLb4pEQVDq.jpg)
 
 暂无翻译
 
@@ -4689,7 +4689,7 @@ Sword Art Online的世界里，女性玩家极其地少。正因如此，现实�
 8 假如亚丝娜开了餐厅后，关于桐人立场的故事
 ===
 
-![](https://images2.imgbox.com/c5/e6/zxsJxtl0_o.jpg)
+![](https://pic.imgdd.cc/i/0348MXaomr2BOavlmrCNas.jpg)
 
 「桐人君，我想开一家餐厅。」
 
@@ -5423,7 +5423,7 @@ Sword Art Online的世界里，女性玩家极其地少。正因如此，现实�
 
 「是这样啊。」
 
-![](https://images2.imgbox.com/05/b2/uayvE7KE_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/a360b5e370c2d119af5fa0fffd5f04dd.jpg)
 
 我对花了解不多，更不用说花语了。
 
@@ -5570,7 +5570,7 @@ Sword Art Online的世界里，女性玩家极其地少。正因如此，现实�
 9 Sword art Online If You Can Smile
 ===
 
-![](https://images2.imgbox.com/2b/10/z2evLABv_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/7463dcc8c49b9216ed71a5ef632692ed.jpg)
 
 ※本短篇描绘了由于上级修剑士莱依奥斯·安提诺斯与温贝尔·吉泽克被有毒螃蟹咬中住院，结果而言桐人与优吉欧并未作为罪犯被带走，就此继续以北圣托利亚帝立修剑学院的学生身份在籍的世界。是Alicization篇的if故事。
 
@@ -5833,13 +5833,13 @@ Sword Art Online的世界里，女性玩家极其地少。正因如此，现实�
 后记
 ===
 
-![](https://images2.imgbox.com/97/32/v9o3Igs6_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/f9a795576c242b6a854b4b70abda15de.jpg)
 
-![](https://images2.imgbox.com/4e/6a/Yrpwq6dI_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/6d339f81766c1e1d2192aa017f9b2df2.jpg)
 
-![](https://images2.imgbox.com/95/03/sK9nQx6b_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/8a90f2bc42f3ed9da2e8c7afc63bbf88.jpg)
 
-![](https://images2.imgbox.com/83/b6/JzygvgOd_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/cfe51f26fc10e41f4b6e20dbb8ec9f57.jpg)
 
 ---
 
