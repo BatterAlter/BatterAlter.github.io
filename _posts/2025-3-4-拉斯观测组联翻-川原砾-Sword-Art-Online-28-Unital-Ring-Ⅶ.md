@@ -49,9 +49,9 @@ Translated by the RATH Observation Group
 
 ==========================================
 
-![](https://images2.imgbox.com/eb/a4/veLSJ85I_o.jpg)
-![](https://images2.imgbox.com/98/2d/6z5h6RLl_o.jpg)
-![](https://images2.imgbox.com/49/fb/UMU71n0c_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/30bebf0d6355ee515fbce5112e36ef73.jpg)
+![](https://i.imgs.ovh/2026/08/17/6538ed9009d09d3e6975516ae8d5ef07.jpg)
+![](https://i.imgs.ovh/2026/08/17/51e0bc1608731cdc891540f65d28dd1c.jpg)
 
 川原砾（Lv77）
 
@@ -75,7 +75,7 @@ SAO预定通关的日期——2024年11月7日越来越近了啊！现在的桐�
 
 ==========================================
 
-![](https://images2.imgbox.com/05/e9/WpD87NSQ_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/a4f370511bd9e56fb6a4513c31bb72c7.jpg)
 
 「还需要一个障眼法。」
 
@@ -87,7 +87,7 @@ SAO预定通关的日期——2024年11月7日越来越近了啊！现在的桐�
 
 法娜提欧§过去存在于《Under World》的整合骑士团的第二代团长，是神器《天穿剑》的使用者。
 
-![](https://images2.imgbox.com/b2/93/5Ju9t0em_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/f019175f4d7c00dc926be05f046ab0bd.jpg)
 
 「有个人我想让小亚你见一面……」
 
@@ -99,11 +99,11 @@ SAO预定通关的日期——2024年11月7日越来越近了啊！现在的桐�
 
 「……亚丝娜」
 
-![](https://images2.imgbox.com/bd/d9/Aad9sqxT_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/2ce6db3550d76602ecd9c3a23831d1a3.jpg)
 
 ---
 
-![](https://images2.imgbox.com/53/88/b0ZMVzXx_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/068cae4396a8921cf52aae82ae37eb79.jpg)
 
 Southern Area of Uniel Continent
 
@@ -113,7 +113,7 @@ Southern Area of Uniel Continent
 
 ---
 
-![](https://images2.imgbox.com/27/9b/FWq6EfZx_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/3192865ef87f028b8d6236d1093764f2.jpg)
 
 「这虽然是游戏，但可不是闹着玩的。」
 
@@ -607,7 +607,7 @@ Southern Area of Uniel Continent
 
 「哈——！」
 
-![](https://images2.imgbox.com/86/ba/vzdnABJj_o.jpg)
+![](https://pic.imgdd.cc/i/0348LRGEjsVTyCFi0XY4hY.jpg)
 
 一边发出激烈的吼叫声，一边踏上一步，法娜提欧把光柱向前方挥去。
 
@@ -947,7 +947,7 @@ RATH到底……神代凛子和比嘉健，还有创立者菊冈诚二郎，打�
 
 「你看起来也很有精神嘛，法娜提欧·Synthesis·Two。」
 
-![](https://images2.imgbox.com/9a/ff/CaY5xxaF_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/6c80d460925226dc9e2020bd98f44afa.jpg)
 
 爱丽丝没听过伊迪丝这个名字，不过从Ten这个单词可以知道她的骑士编号是十号。看来她的确是古代七骑士的其中一人，但这样的话，她又是怎么从永眠中醒来的呢？
 
@@ -2298,7 +2298,7 @@ Principia的热素炮正放释放出让人联想到滚滚熔岩的鲜红光芒�
 
 桐人悲痛的抗辩声，被无限的星空吸纳。
 
-![](https://images2.imgbox.com/1a/60/NFbcoUbp_o.jpg)
+![](https://pic.imgdd.cc/i/0348LRFqlIcN0B87DDmQub.jpg)
 
 ---
 
@@ -2707,7 +2707,7 @@ Genoligia显然感知到了西莉卡她们──岂止如此，它可能还知�
 
 「相信自己能做到，你就已经成功了一半──西奥多·罗斯福。」
 
-![](https://images2.imgbox.com/f3/b7/RV1VKSJ3_o.jpg) 
+![](https://i.imgs.ovh/2026/08/17/184a64c24adb65a0d8356a429aa3d6c0.jpg) 
 
 ---
 
@@ -2932,7 +2932,7 @@ Genoligia显然感知到了西莉卡她们──岂止如此，它可能还知�
 
 「嗯……我也是。」
 
-![](https://images2.imgbox.com/c4/97/ekoWDBD7_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/22684593384699fd4bc86f47c98c62fc.jpg)
 
 好不容易都退后了一步，发现服务员已经在过道上等着了。明日奈让老朋友坐在沙发上，自己也坐在旁边。
 
@@ -3855,7 +3855,7 @@ Asuka组是完全的竞争对手，Apd组最后应该也会变成那样吧，但
 
 爱丽丝轻轻点头，把身体向左倾，靠在伊迪丝的肩膀上。在那之后的好一段时间里，两名整合骑士就只是看着影像盘中的美丽街景。
 
-![](https://images2.imgbox.com/ac/ec/3ABVi9Yt_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/407c01344fae50c02d283e828cb582e4.jpg)
 
 ---
 
@@ -4371,7 +4371,7 @@ Asuka组是完全的竞争对手，Apd组最后应该也会变成那样吧，但
 
 「……真是个不可思议的人啊。」
 
-![](https://images2.imgbox.com/70/75/fXcm3KbI_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/46796bf13b46cbd7fd7f6b3779824dfa.jpg)
 
 微弱的声音从唇齿间零落。
 
@@ -4459,7 +4459,7 @@ Asuka组是完全的竞争对手，Apd组最后应该也会变成那样吧，但
 
 「初次见面，艾欧莱茵·赫伦茨大人。我是诺兰高尔斯皇帝家的后裔……名为穆塔希娜·穆伊基利（Mutasina Muicilli）。」
 
-![](https://images2.imgbox.com/54/d5/NZKB5qRm_o.jpg)
+![](https://i.imgs.ovh/2026/08/17/0ac41c85c5d3a14d377b169cea8463b0.jpg)
 
 （待续）
 
